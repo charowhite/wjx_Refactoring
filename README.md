@@ -16,7 +16,7 @@ ii. For Linux,
 python3 wjx.py
 ```
 #### 5.What is the config.json here?  
-The first half is some parameter settings for answering questions, the second half is the question type parameters, and the second half is the question type parameters.<br> I wrote a beta version of the parameter configurator, which can be configured simply.<br>The question type parameters are the same as those of [Zemelee/wjx](https://github.com/Zemelee/wjx)，thanks again.<br>Project link [charowhite/wjx_setting](https://github.com/charowhite/wjx_setting)
+The first half is some parameter settings for answering questions, and the second half is the question type parameters.<br> I wrote a beta version of the parameter configurator, which can be configured simply.<br>The question type parameters are the same as those of [Zemelee/wjx](https://github.com/Zemelee/wjx)，thanks again.<br>Project link [charowhite/wjx_setting](https://github.com/charowhite/wjx_setting)
 ```
 {
     "url": "https://www.wjx.cn/vm/xxxxxx.aspx#",
