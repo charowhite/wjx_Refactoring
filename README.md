@@ -1,4 +1,4 @@
-# wjx_Refactoring
+# wjx_refactoring
 ### Thanks to [Zemelee/wjx](https://github.com/Zemelee/wjx) project inspiration.
 Modified for headless Ubuntu environment.<br>Independent config file.<br>separate control of page duration.<br>The project is still in <b>beta testing</b>.<br>
 ## How to start
