@@ -1,0 +1,30 @@
+{
+    "url": "https://www.wjx.cn/vm/xxxxxx.aspx#",
+    "targetCount": 2,
+    "topFail": 5,
+    "thread_count": 2,
+    "useIp": false,
+    "ip_api": "",
+    "page_delay": 30,
+
+    "single_prob": {
+    },
+
+    "droplist_prob": {
+    },
+
+    "multiple_prob": {
+    },
+
+    "matrix_prob": {
+    },
+
+    "scale_prob": {
+    },
+
+    "texts": {
+    },
+
+    "texts_prob": {
+    }
+}
